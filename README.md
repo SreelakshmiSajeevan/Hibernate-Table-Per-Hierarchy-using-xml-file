@@ -1,0 +1,1 @@
+# Hibernate-Table-Per-Hierarchy-using-xml-file
